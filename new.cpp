@@ -1,6 +1,4 @@
 //the beginning
-main [
-int new = 0;
-
-
-]
+int main() {
+    int value = 0;
+}
