@@ -6,5 +6,5 @@ int main () {
 
 int epic = 190;
 
-cout << "epic is " << epic << endl;
+std::cout << "epic is " << epic << std::endl;
 }
